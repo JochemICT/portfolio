@@ -84,7 +84,7 @@ export default function HeroSection(){
                                     <div className="w-2 h-2 rounded-full bg-yellow-500/60"></div>
                                     <div className="w-2 h-2 rounded-full bg-green-500/60"></div>
                                     <span className="text-[10px] text-white/40 ml-auto font-mono">
-                        profile.exe
+                        profile.png
                       </span>
                                 </div>
                             </div>
