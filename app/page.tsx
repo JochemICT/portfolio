@@ -12,7 +12,7 @@ export default function Home() {
     <div className="min-h-screen bg-background text-foreground selection:bg-white selection:text-black font-mono">
       <Nav />
 
-      <main className="relative z-10 pt-20 pb-20">
+      <main className="relative z-10 pt-20 lg:pt-12 pb-20">
           <HeroSection />
 
           <AboutSection />
