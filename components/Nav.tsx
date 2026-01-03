@@ -27,10 +27,10 @@ export default function Nav(){
                         Education
                     </a>
                     <a
-                        href="#skills"
+                        href="#certificates"
                         className="hover:text-white transition-colors hover:underline decoration-1 underline-offset-4"
                     >
-                        Skills
+                        Certificates
                     </a>
                 </div>
                 <Button
